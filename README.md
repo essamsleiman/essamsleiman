@@ -13,7 +13,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 - [Twitch/Amazon](https://www.twitch.tv/) 3X Internship
   - 2022 (Applied Science): Developed novel unsupervised continual learning framework on streaming data.
 
-  - 2021 Fall (Software Engineer): Designed & developed an end-to-end, real-time Media Analysis Service utilizing various services, and solving downstream tasks with the help of my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content.
+  - 2021 Fall (Software Engineer): Designed & developed an end-to-end, real-time Media Analysis Service utilizing both Machine-Learning based services, and my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content.
 
   - 2021 Summer (Applied Science): Developed a novel Twitch content representation Image Embedding trained using self-supervised learning
 
