@@ -27,7 +27,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 
 - Komma, a web app which simplifies the way sales representatives schedule meetings. As Co-Founder/CTO, I led development of full-stack web application using React.js, Node.js, MongoDB, GCP, & AWS. Communicated with customers regularly for feedback & implemented necessary improvements. Released application as Beta, but eventually halted the project as we struggled to find product-market fit. Learned a lot along the process.
 
-- Haven, a full-stack web project to connect cyclists with great businesses and places across their city. Logged-in users can search, review & rate local places. Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js), Google Places & Auth API, MongoDb Atlas, and AWS.
+- [Haven](https://github.com/essamsleiman/Haven), a full-stack web project to connect cyclists with great businesses and places across their city. Logged-in users can search, review & rate local places. Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js), Google Places & Auth API, MongoDb Atlas, and AWS.
 
 <!--
 **essamsleiman/essamsleiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
