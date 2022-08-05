@@ -10,7 +10,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 
 ## Experiences + Projects
 
-- Twitch/Amazon 3x Intern
+- [Twitch/Amazon](https://www.twitch.tv/) 3x Intern
   - 2022 (Applied Science): Developed novel unsupervised continual learning framework on streaming data.
 
   - 2021 Fall (Software Engineer): Designed & developed an end-to-end, real-time Media Analysis Service utilizing various services, and solving downstream tasks with the help of my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content.
@@ -21,7 +21,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 
 - Research Intern @ Stanford University, working under Dr. Dennis Wall and Dr. Peter Washington. 1. Developed Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings. Submitted paper to JMIR journal in the review process. 2. Contributed to Facial Emotion Dataset, "TikTok for Good: Creating a Diverse Emotion Expression Database" published in CVPR 2022.
 
-- Codelab, a UC Davis student organization that builds software for high-growth startups. Cofounder/President where I grew organization from 7 members to 30+ within a year and which now has grown into 60+ members. Reached out to hundreds of startups prior to each cohort, negotiated project scope and needs, and finalized agreements with startup clients. Led weekly meetings with CodeLab leadership to reinforce direction, improve student member experience, and ensure project completion for our clients. Project Mentor for CodeLab's ReFocus AI, Family Proud, and Ambii client startup teams. Collaborated with company leadership regularly to ensure CodeLab met their needs. Successfully delivered high quality projects that exceeded startup client expectations.
+- [Codelab](https://codelabdavis.com/), a UC Davis student organization that builds software for high-growth startups. Cofounder/President where I grew organization from 7 members to 30+ within a year and which now has grown into 60+ members. Reached out to hundreds of startups prior to each cohort, negotiated project scope and needs, and finalized agreements with startup clients. Led weekly meetings with CodeLab leadership to reinforce direction, improve student member experience, and ensure project completion for our clients. Project Mentor for CodeLab's ReFocus AI, Family Proud, and Ambii client startup teams. Collaborated with company leadership regularly to ensure CodeLab met their needs. Successfully delivered high quality projects that exceeded startup client expectations.
 
 - Komma, a web app which simplifies the way sales representatives schedule meetings. As Co-Founder/CTO, I led development of full-stack web application using React.js, Node.js, MongoDB, GCP, & AWS. Communicated with customers regularly for feedback & implemented necessary improvements. Released application as Beta, but eventually halted the project as we struggled to find product-market fit. Learned a lot along the process.
 
