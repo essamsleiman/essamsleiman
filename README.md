@@ -2,7 +2,7 @@
 
 ## About
 
-### Software Engineer & Researcher, passionate about applying deep learning and computer vision to build solutions with positive societal impact.
+### Software Engineer & Researcher, passionate about applying deep learning and computer vision to solve problems with positive societal impact.
 
 I'm a 4th year computer science + statistics major at UC Davis. Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, I co-founded Komma as the CTO in my freshman year of college with three of my best friends with the goal of simplifying the way sales representatives schedule meetings. Energized by the experience of iteratively building products and features to solve customer problems, I became the Founding President of CodeLab, a UC Davis student-run software and design agency with 60+ members, where we consult software projects for high growth startups. 
 
