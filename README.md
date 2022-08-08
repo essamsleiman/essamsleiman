@@ -17,7 +17,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 
   - 2021 Summer (Applied Science): Developed a novel Twitch content representation Image Embedding trained using self-supervised learning
 
-- Research Intern @ UC Davis, working under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/). Designing a novel self-supervised, multi-modal action recognition and segmentation computer vision model architecture.
+- Research Intern @ UC Davis, working under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/). Working in the self-supervised, multi-modal learning space.
 
 - Research Intern @ Stanford University, working under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/). 
   - Developed Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings. Paper submission in review process. 
