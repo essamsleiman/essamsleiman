@@ -20,7 +20,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 - Research Intern @ UC Davis, under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/). Research in the self-supervised, multi-modal learning space.
 
 - Research Intern @ Stanford University, under [Dr. Dennis Wall](https://profiles.stanford.edu/dennis-wall) and [Dr. Peter Washington](https://peterwashington.github.io/). 
-  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings. [Published at JMIR 2022].
+  - Project 1 (First Author): Deep Learning-Based Autism Spectrum Disorder (ASD) Detection Using Emotion Features From Video Recordings. [Published in JMIR 2022].
   - Project 2: Novel Facial Emotion Recognition Dataset, "TikTok for Good: Creating a Diverse Emotion Expression Database". [Published at CVPR 2022].
 
 - [Codelab](https://codelabdavis.com/) (Cofounder/President), a UC Davis student organization that builds software for high-growth startups. Cofounder/President where I grew organization from 7 members to 30+ within a year and which now has grown into 60+ members. Reached out to hundreds of startups prior to each cohort, negotiated project scope and needs, and finalized agreements with startup clients. Led weekly meetings with CodeLab leadership to reinforce direction, improve student member experience, and ensure project completion for our clients. Project Mentor for CodeLab's ReFocus AI, Family Proud, and Ambii client startup teams. Collaborated with company leadership regularly to ensure CodeLab met their needs. Successfully delivered high quality projects that exceeded startup client expectations.
