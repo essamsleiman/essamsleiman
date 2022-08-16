@@ -15,7 +15,7 @@ After joining Twitch/Amazon 3x as a Machine Learning Intern and conducting under
 
   - 2021 Fall (Software Engineer): Designed & developed an end-to-end, real-time Media Analysis Service utilizing both Machine-Learning based services, and my trained Image Embedding to moderate Twitch’s 9.36M+ streamers’ content.
 
-  - 2021 Summer (Applied Science): Developed a novel Twitch content representation Image Embedding trained using self-supervised learning
+  - 2021 Summer (Applied Science): Developed a Twitch content representation Image Embedding trained using self-supervised learning
 
 - Research Intern @ UC Davis, under [Dr. Hamed Pirsiavash](https://web.cs.ucdavis.edu/~hpirsiav/). Research in the self-supervised, multi-modal learning space.
 
